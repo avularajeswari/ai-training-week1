@@ -1,2 +1,2 @@
 # ai-training-week1
-Edit from branch 2
+Resolved conflict - both edits kept
