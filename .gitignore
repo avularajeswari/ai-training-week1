@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#-----AI Training Task----
+.env. venv/
+*.log
+__pycache__
